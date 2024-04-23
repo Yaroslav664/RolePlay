@@ -1,0 +1,34 @@
+<Game>
+  <Character>
+    <Name>Alice</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Strength>10</Strength>
+    <Agility>10</Agility>
+    <Intelligence>10</Intelligence>
+    <Inventory>
+      <Item>
+        <Name>Sword</Name>
+        <Type>Weapon</Type>
+        <Value>20</Value>
+        <Weight>5</Weight>
+      </Item>
+    </Inventory>
+  </Character>
+  <Character>
+    <Name>Bob</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Strength>10</Strength>
+    <Agility>10</Agility>
+    <Intelligence>10</Intelligence>
+    <Inventory>
+      <Item>
+        <Name>Shield</Name>
+        <Type>Armor</Type>
+        <Value>30</Value>
+        <Weight>10</Weight>
+      </Item>
+    </Inventory>
+  </Character>
+</Game>

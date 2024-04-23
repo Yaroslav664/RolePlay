@@ -1,0 +1,7 @@
+C:\Users\steam\source\repos\RolePlay\RolePlay\bin\Debug\RolePlay.exe.config
+C:\Users\steam\source\repos\RolePlay\RolePlay\bin\Debug\RolePlay.exe
+C:\Users\steam\source\repos\RolePlay\RolePlay\bin\Debug\RolePlay.pdb
+C:\Users\steam\source\repos\RolePlay\RolePlay\obj\Debug\RolePlay.csproj.AssemblyReference.cache
+C:\Users\steam\source\repos\RolePlay\RolePlay\obj\Debug\RolePlay.csproj.CoreCompileInputs.cache
+C:\Users\steam\source\repos\RolePlay\RolePlay\obj\Debug\RolePlay.exe
+C:\Users\steam\source\repos\RolePlay\RolePlay\obj\Debug\RolePlay.pdb
